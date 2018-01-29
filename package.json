@@ -1,6 +1,6 @@
 {
     "name": "lucario",
-    "displayName": "Lucario",
+    "displayName": "Lucario Dark",
     "author": {
         "name": "Yuki Ueda"
     },
@@ -36,8 +36,8 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lucario",
-                "uiTheme": "vs-dark",
+                "label": "Lucario Dark",
+                "uiTheme": "vs",
                 "path": "./themes/Lucario-color-theme.json"
             }
         ]
