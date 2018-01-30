@@ -578,8 +578,8 @@
 		{
 			"name": "Braces in markdown headings",
 			"scope": [
-				"markup.heading.markdown punctuation.definition.string.begin",
-				"markup.heading.markdown punctuation.definition.string.end"
+				"markup.heading punctuation.definition.string.begin",
+				"markup.heading punctuation.definition.string.end"
 			],
 			"settings": {
 				"foreground": "#66D9EF"
